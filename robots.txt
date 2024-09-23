@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://okrandes.github.io/sitemap/sitemap.txt
